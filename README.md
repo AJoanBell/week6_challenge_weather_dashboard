@@ -37,6 +37,7 @@ THEN I am again presented with current and future conditions for that city
 
 The following image shows the web application's appearance and functionality to resemble:
 
+![06-server-side-apis-homework-demo](https://user-images.githubusercontent.com/36496885/178274762-d66d7835-6d27-4ec2-9e3f-c6bc7f1013cc.png)
 
 
 ## Technologies used:
@@ -55,6 +56,9 @@ https://github.com/AJoanBell/week6_challenge_weather_dashboard
 
 Screenshot of application:
 
+Desktop version:
+
+<img width="1516" alt="weather_desktop" src="https://user-images.githubusercontent.com/36496885/178274691-64961780-5303-4c7e-afea-b55ff01c4788.png">
 
 
 
