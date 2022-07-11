@@ -70,7 +70,7 @@ Initial screen:
 
 
 
-Scrolling down screen: 
+Scrolling down screen (only showing 4 of 5 forecast windows in screenshot - all 5 display in app): 
 
 <img width="412" alt="weather_mobile2" src="https://user-images.githubusercontent.com/36496885/178276011-69f17334-8b51-43a7-947f-4b92dac2d8de.png">
 
