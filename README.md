@@ -1,4 +1,4 @@
-# 06 Server-Side APIs: Weather Dashboard
+# Challenge 6 Server-Side APIs: Weather Dashboard
 
 Link to deployed url:
 https://ajoanbell.github.io/week6_challenge_weather_dashboard/
@@ -41,9 +41,9 @@ The following image shows the web application's appearance and functionality to 
 
 
 ## Technologies used:
-- html
-- javascript
-- css
+- HTML
+- JavaScript
+- CSS
 - OpenWeather One Call API](https://openweathermap.org/api/one-call-api)
 - jQuery
 - Bootstrap
