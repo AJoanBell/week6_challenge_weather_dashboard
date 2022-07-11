@@ -1,5 +1,8 @@
 # 06 Server-Side APIs: Weather Dashboard
 
+Link to deployed url:
+https://ajoanbell.github.io/week6_challenge_weather_dashboard/
+
 ## The Task
 
 Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
@@ -32,14 +35,27 @@ THEN I am again presented with current and future conditions for that city
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance and functionality to resemble:
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/06-server-side-apis-homework-demo.png)
 
-Link to deployed url:
+
+## Technologies used:
+- html
+- javascript
+- css
+- OpenWeather One Call API](https://openweathermap.org/api/one-call-api)
+- jQuery
+- Bootstrap
+- Moment.js
+
+## Link to deployed url:
 https://ajoanbell.github.io/week6_challenge_weather_dashboard/
+## Link to github repository:
+https://github.com/AJoanBell/week6_challenge_weather_dashboard
 
 Screenshot of application:
+
+
 
 
 
