@@ -60,10 +60,18 @@ Desktop version:
 
 <img width="1516" alt="weather_desktop" src="https://user-images.githubusercontent.com/36496885/178274691-64961780-5303-4c7e-afea-b55ff01c4788.png">
 
+Mobile version:
+
+Initial screen:
+
+<img width="408" alt="weather_mobile1" src="https://user-images.githubusercontent.com/36496885/178275982-8ef77638-437e-4df7-a117-6172c419f422.png">
 
 
 
 
 
+Scrolling down screen: 
+
+<img width="412" alt="weather_mobile2" src="https://user-images.githubusercontent.com/36496885/178276011-69f17334-8b51-43a7-947f-4b92dac2d8de.png">
 
 
